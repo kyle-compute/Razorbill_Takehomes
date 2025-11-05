@@ -1,0 +1,31 @@
+{
+  "policy_id": "DME101.000",
+  "version_date": "2024-11-15",
+  "title": "DME Introduction",
+  "category": "dme",
+  "local_pdf_path": "../../output/pdfs/DME101.000_2024-11-15.pdf",
+  "codes": {
+    "cpt": [],
+    "hcpcs": [
+      "A9901",
+      "E1301",
+      "E1399",
+      "K1003"
+    ]
+  },
+  "keywords": {
+    "conditions": [],
+    "procedures": [
+      "durable medical equipment",
+      "hospital bed"
+    ],
+    "coverage_terms": [
+      "medically necessary",
+      "may be considered",
+      "eligible for coverage",
+      "not eligible"
+    ]
+  },
+  "page_url": "https://medicalpolicy.hcsc.com/activePolicyPage?path=dme/DME101.000_2024-11-15&corpEntCd=HCSC",
+  "pdf_url": "https://medicalpolicy.hcsc.com/content/dam/bcbs/medicalpolicy/pdf/dme/DME101.000_2024-11-15.pdf"
+}

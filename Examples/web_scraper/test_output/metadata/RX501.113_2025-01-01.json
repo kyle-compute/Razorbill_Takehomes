@@ -1,0 +1,9 @@
+{
+  "page_url": "https://medicalpolicy.hcsc.com/activePolicyPage?path=rx/RX501.113_2025-01-01&corpEntCd=HCSC",
+  "pdf_url": "https://medicalpolicy.hcsc.com/content/dam/bcbs/medicalpolicy/pdf/rx/RX501.113_2025-01-01.pdf",
+  "title": "Active Policy Page",
+  "policy_id": "RX501.113_2025-01-01",
+  "effective_date": "Effective Date",
+  "category": "rx",
+  "local_pdf_path": "test_output/pdfs/RX501.113_2025-01-01.pdf"
+}

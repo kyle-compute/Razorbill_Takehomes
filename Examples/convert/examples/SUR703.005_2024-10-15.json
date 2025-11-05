@@ -1,0 +1,27 @@
+{
+  "policy_id": "SUR703.005",
+  "version_date": "2024-10-15",
+  "title": "Heart Transplant",
+  "category": "surgery",
+  "local_pdf_path": "../../output/pdfs/SUR703.005_2024-10-15.pdf",
+  "codes": {
+    "cpt": [],
+    "hcpcs": [
+      "S2152"
+    ]
+  },
+  "keywords": {
+    "conditions": [
+      "trauma",
+      "transplant",
+      "stroke"
+    ],
+    "procedures": [],
+    "coverage_terms": [
+      "medically necessary",
+      "may be considered"
+    ]
+  },
+  "page_url": "https://medicalpolicy.hcsc.com/activePolicyPage?path=surgery/SUR703.005_2024-10-15&corpEntCd=HCSC",
+  "pdf_url": "https://medicalpolicy.hcsc.com/content/dam/bcbs/medicalpolicy/pdf/surgery/SUR703.005_2024-10-15.pdf"
+}

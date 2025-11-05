@@ -1,0 +1,250 @@
+[
+  {
+    "chunk_id": "DME101.000_2024-11-15_chunk_001",
+    "policy_id": "DME101.000",
+    "version_date": "2024-11-15",
+    "text": "NOTE 1: For coverage of specific durable medical equipment (DME) items, please see the\nappropriate Medical Policy. Also, check contracts for specific DME coverage benefits.\nNOTE 2: In general, duplicate equipment is considered a convenience item and not medically\nnecessary.\nGeneral Coverage\nGenerally, DME is eligible for coverage when the equipment meets all of the following\ncriteria:\nDME Introduction/DME101.000\nPage 1\n\n\u2022 Serves a medical purpose; AND\n\u2022 Generally not useful to an individual in the absence of illness, injury, or disease; AND\n\u2022 Used in the individual\u2019s home/place of residence; AND\n\u2022 Reasonable and medically necessary for the individual; AND\n\u2022 Prescribed by a physician within the scope of his/her license; AND\n\u2022 Does not serve as a comfort or convenience item; AND\n\u2022 Has been approved by the U.S. Food and Drug Administration (FDA) (where applicable) and\nis otherwise generally considered to be safe and effective for the purpose intended.\nThe following list includes, but is not limited to, examples of items that are not eligible for\ncoverage:\n\u2022 Room or central environmental conditioning devices, including but not limited to air\ncleaners, air conditioners, humidifiers, dehumidifiers, electrostatic machines, heaters; AND\n\u2022 Bathing devices, including but not limited to bath seats (bath bench, tub chair), whirlpool\ntubs and/or pumps, sauna bath; AND\n\u2022 Exercise equipment, treadmill exerciser, grab bars, elevators; AND\n\u2022 Leotards and other clothing type items; AND\n\u2022 Supplies that are usually stocked in the home for general use, including but not limited to\nBand-Aids, thermometers, lubricating jelly, etc.; AND\n\u2022 Transportation equipment, including but not limited to customized vehicles (cars, vans,\netc.), car seats, etc.; AND\n\u2022 Nonhospital beds such as the Craftmatic\u00ae Adjustable bed, the Sleep Number\u00ae bed by Select\nComfort Corporation and the Self Adjusting Technology (SAT\u2122) Bed, the SleepSafe Beds\u00ae,\nCubby Beds, waterbeds and beds considered safety or sensory-friendly safe spaces.\nNOTE 3: Benefits should be provided for rental charge (but not to exceed the total cost of\npurchase) or, at the option of the Plan, the purchase of the DME.\nRepair or Replacement of DME\nRepair, adjustment, or replacement of components and accessories of DME, as well as supplies\nand accessories necessary for effective functioning of covered DME, are eligible for coverage\nwhen the DME:\n\u2022 Meets the above general coverage criteria; AND\n\u2022 Is being purchased or is already owned by patient; AND\n\u2022 Requires repair or replacement that is necessary to make the DME serviceable.\nCustomized DME\nIn order to qualify as \"customized,\u201d a DME, prosthetic, or orthotic device must be specially\nconstructed to meet an individual patient's specific needs. An invoice should be included with\nbilling for any customized DME, prosthetic, or orthotic device for which a procedure code or\nHCPCS code does not exist. The prescription for customized equipment should include:\n\u2022 The reason the patient requires a customized item; AND\n\u2022 Specific documentation, e.g., physical therapy records or physician\u2019s records.\nDME Introduction/DME101.000\nPage 2\n\nThe following are examples of items that do not meet the requirement to be considered\ncustomized:\n\u2022 Adjustable brace with Velcro closures; AND\n\u2022 Pull-on elastic brace; AND\n\u2022 Lightweight, high-strength wheelchair with padding added.",
+    "section": "Coverage",
+    "page": 1,
+    "title": "DME Introduction",
+    "category": "dme",
+    "codes": {
+      "cpt": [],
+      "hcpcs": [
+        "A9901",
+        "E1301",
+        "E1399",
+        "K1003"
+      ]
+    },
+    "keywords": {
+      "conditions": [],
+      "procedures": [
+        "durable medical equipment",
+        "hospital bed"
+      ],
+      "coverage_terms": [
+        "medically necessary",
+        "may be considered",
+        "eligible for coverage",
+        "not eligible"
+      ]
+    },
+    "page_url": "https://medicalpolicy.hcsc.com/activePolicyPage?path=dme/DME101.000_2024-11-15&corpEntCd=HCSC",
+    "pdf_url": "https://medicalpolicy.hcsc.com/content/dam/bcbs/medicalpolicy/pdf/dme/DME101.000_2024-11-15.pdf",
+    "thresholds": {},
+    "negations": [
+      "note 1: for coverage of specific durable medical equipment (dme) items, please see the\nappropriate medical policy. also, check contracts for specific dme coverage benefits.\nnote 2: in general, duplica..."
+    ],
+    "conditions": [
+      "Generally not useful to an individual in the absence of illness, injury, or disease",
+      "Room or central environmental conditioning devices, including but not limited to air",
+      "Is being purchased or is already owned by patient",
+      "The reason the patient requires a customized item"
+    ],
+    "logic": {
+      "requires_all": true
+    },
+    "summary": "NOTE 1: For coverage of specific durable medical equipment (DME) items, please see the\nappropriate Medical Policy."
+  },
+  {
+    "chunk_id": "DME101.000_2024-11-15_chunk_002",
+    "policy_id": "DME101.000",
+    "version_date": "2024-11-15",
+    "text": "If a nationally recognized CPT or HCPCS code exists for which the narrative adequately\ndescribes a DME item, that code should be used. \u201cUnlisted\u201d codes have been established for\nservices or procedures for which a code is not found in the CPT or HCPCS code manuals. When\nusing an unlisted code, the provider must submit a detailed description of the service or\nequipment provided.\nThere is no objective basis for approval of one name-brand, specific commercial device of a\nparticular type over another \u201cgeneric\" device that has an established code. DME devices billed\nwith an unspecified code will be reimbursed at the reimbursement rate for a similar/like device\nwith an established HCPCS or CPT code.\nShipping, Delivery, Set-up, Education Regarding Use, Equipment Pick-Up\nShipping, delivery, set-up, education regarding use, and equipment pick-up generally are not\nseparately or additionally reimbursed, as these costs are an integral part of the suppliers\u2019 costs\nof doing business and are accounted for in the calculations of fee schedules. However, in rare\nand unusual circumstances extraordinary delivery expenses may be considered and paid\nseparately on an individual basis when incurred in order to meet the needs of members living in\nremote areas that are not served by a local dealer or when a local dealer is temporarily out of\nstock of required equipment.",
+    "section": "Policy Guidelines",
+    "page": 3,
+    "title": "DME Introduction",
+    "category": "dme",
+    "codes": {
+      "cpt": [],
+      "hcpcs": [
+        "A9901",
+        "E1301",
+        "E1399",
+        "K1003"
+      ]
+    },
+    "keywords": {
+      "conditions": [],
+      "procedures": [
+        "durable medical equipment",
+        "hospital bed"
+      ],
+      "coverage_terms": [
+        "medically necessary",
+        "may be considered",
+        "eligible for coverage",
+        "not eligible"
+      ]
+    },
+    "page_url": "https://medicalpolicy.hcsc.com/activePolicyPage?path=dme/DME101.000_2024-11-15&corpEntCd=HCSC",
+    "pdf_url": "https://medicalpolicy.hcsc.com/content/dam/bcbs/medicalpolicy/pdf/dme/DME101.000_2024-11-15.pdf",
+    "thresholds": {},
+    "negations": [],
+    "conditions": [],
+    "logic": {},
+    "summary": "If a nationally recognized CPT or HCPCS code exists for which the narrative adequately\ndescribes a DME item, that code should be used."
+  },
+  {
+    "chunk_id": "DME101.000_2024-11-15_chunk_003",
+    "policy_id": "DME101.000",
+    "version_date": "2024-11-15",
+    "text": "Durable medical equipment (DME): (1)\n\u2022 Can withstand repeated use, i.e., could normally be rented and used by successive patients;\nAND\n\u2022 Is primarily and customarily used to serve a medical purpose; AND\n\u2022 Is generally not useful to a person in the absence of illness or injury; AND\n\u2022 Is appropriate for use in the home; AND\n\u2022 Is expected to last at least 3 years.\nEquipment that serves as a comfort or convenience item should not be considered DME.\nElectrical or mechanical features that enhance basic equipment usually serve a convenience\nfunction; determination of medical necessity should be made regarding the coverage of these\nfeatures. Equipment used for environmental control or to enhance the environmental setting\nDME Introduction/DME101.000\nPage 3\n\nor surroundings of an individual should not be considered DME. Medical supplies should be\nappropriate for patient care and of proven medical value.\nRationale\nNone.",
+    "section": "Description",
+    "page": 3,
+    "title": "DME Introduction",
+    "category": "dme",
+    "codes": {
+      "cpt": [],
+      "hcpcs": [
+        "A9901",
+        "E1301",
+        "E1399",
+        "K1003"
+      ]
+    },
+    "keywords": {
+      "conditions": [],
+      "procedures": [
+        "durable medical equipment",
+        "hospital bed"
+      ],
+      "coverage_terms": [
+        "medically necessary",
+        "may be considered",
+        "eligible for coverage",
+        "not eligible"
+      ]
+    },
+    "page_url": "https://medicalpolicy.hcsc.com/activePolicyPage?path=dme/DME101.000_2024-11-15&corpEntCd=HCSC",
+    "pdf_url": "https://medicalpolicy.hcsc.com/content/dam/bcbs/medicalpolicy/pdf/dme/DME101.000_2024-11-15.pdf",
+    "thresholds": {},
+    "negations": [
+      "not useful to a person in the absence of illness or injury; and\n\u2022 is appropriate for use in the home; and\n\u2022 is expected to last at least 3 years.\nequipment that serves as a comfort or convenience item..."
+    ],
+    "conditions": [
+      "Can withstand repeated use, i.e., could normally be rented and used by successive patients",
+      "Is generally not useful to a person in the absence of illness or injury"
+    ],
+    "logic": {},
+    "summary": "Durable medical equipment (DME): (1)\n\u2022 Can withstand repeated use, i."
+  },
+  {
+    "chunk_id": "DME101.000_2024-11-15_chunk_004",
+    "policy_id": "DME101.000",
+    "version_date": "2024-11-15",
+    "text": "Procedure codes on Medical Policy documents are included only as a general reference tool for each policy. They may not be\nall-inclusive.\nThe presence or absence of procedure, service, supply, or device codes in a Medical Policy document has no relevance for\ndetermination of benefit coverage for members or reimbursement for providers. Only the written coverage position in a\nMedical Policy should be used for such determinations.\nBenefit coverage determinations based on written Medical Policy coverage positions must include review of the member\u2019s\nbenefit contract or Summary Plan Description (SPD) for defined coverage vs. non-coverage, benefit exclusions, and benefit\nlimitations such as dollar or duration caps.\nCPT Codes None\nHCPCS Codes A9901, E1301, E1399, [Deleted 1/2024: K1003]\n*Current Procedural Terminology (CPT\u00ae) \u00a92023 American Medical Association: Chicago, IL.",
+    "section": "Coding",
+    "page": 4,
+    "title": "DME Introduction",
+    "category": "dme",
+    "codes": {
+      "cpt": [],
+      "hcpcs": [
+        "A9901",
+        "E1301",
+        "E1399",
+        "K1003"
+      ]
+    },
+    "keywords": {
+      "conditions": [],
+      "procedures": [
+        "durable medical equipment",
+        "hospital bed"
+      ],
+      "coverage_terms": [
+        "medically necessary",
+        "may be considered",
+        "eligible for coverage",
+        "not eligible"
+      ]
+    },
+    "page_url": "https://medicalpolicy.hcsc.com/activePolicyPage?path=dme/DME101.000_2024-11-15&corpEntCd=HCSC",
+    "pdf_url": "https://medicalpolicy.hcsc.com/content/dam/bcbs/medicalpolicy/pdf/dme/DME101.000_2024-11-15.pdf",
+    "thresholds": {},
+    "negations": [],
+    "conditions": [],
+    "logic": {},
+    "summary": "Procedure codes on Medical Policy documents are included only as a general reference tool for each policy."
+  },
+  {
+    "chunk_id": "DME101.000_2024-11-15_chunk_005",
+    "policy_id": "DME101.000",
+    "version_date": "2024-11-15",
+    "text": "None.\nCoding\nProcedure codes on Medical Policy documents are included only as a general reference tool for each policy. They may not be\nall-inclusive.\nThe presence or absence of procedure, service, supply, or device codes in a Medical Policy document has no relevance for\ndetermination of benefit coverage for members or reimbursement for providers. Only the written coverage position in a\nMedical Policy should be used for such determinations.\nBenefit coverage determinations based on written Medical Policy coverage positions must include review of the member\u2019s\nbenefit contract or Summary Plan Description (SPD) for defined coverage vs. non-coverage, benefit exclusions, and benefit\nlimitations such as dollar or duration caps.\nCPT Codes None\nHCPCS Codes A9901, E1301, E1399, [Deleted 1/2024: K1003]\n*Current Procedural Terminology (CPT\u00ae) \u00a92023 American Medical Association: Chicago, IL.",
+    "section": "Rationale",
+    "page": 4,
+    "title": "DME Introduction",
+    "category": "dme",
+    "codes": {
+      "cpt": [],
+      "hcpcs": [
+        "A9901",
+        "E1301",
+        "E1399",
+        "K1003"
+      ]
+    },
+    "keywords": {
+      "conditions": [],
+      "procedures": [
+        "durable medical equipment",
+        "hospital bed"
+      ],
+      "coverage_terms": [
+        "medically necessary",
+        "may be considered",
+        "eligible for coverage",
+        "not eligible"
+      ]
+    },
+    "page_url": "https://medicalpolicy.hcsc.com/activePolicyPage?path=dme/DME101.000_2024-11-15&corpEntCd=HCSC",
+    "pdf_url": "https://medicalpolicy.hcsc.com/content/dam/bcbs/medicalpolicy/pdf/dme/DME101.000_2024-11-15.pdf",
+    "thresholds": {},
+    "negations": [],
+    "conditions": [],
+    "logic": {},
+    "summary": "None."
+  },
+  {
+    "chunk_id": "DME101.000_2024-11-15_chunk_006",
+    "policy_id": "DME101.000",
+    "version_date": "2024-11-15",
+    "text": "1. National Coverage Determination (NCD) for Durable Medical Equipment Reference List\n(280.1), Publication 100-3. Version 3. Effective date 5/16/2023. Centers for Medicare and\nMedicaid Services. Available at: <https://www.cms.gov> (accessed April 24, 2024).\nCenters for Medicare and Medicaid Services (CMS)\nThe information contained in this section is for informational purposes only. HCSC makes no\nrepresentation as to the accuracy of this information. It is not to be used for claims adjudication\nfor HCSC Plans.\nThe Centers for Medicare and Medicaid Services (CMS) does have a national Medicare coverage\nposition. Coverage may be subject to local carrier discretion.\nA national coverage position for Medicare may have been changed since this medical policy\ndocument was written. See Medicare's National Coverage at <http://www.cms.hhs.gov>.\nPolicy History/Revision\nDate Description of Change\nDME Introduction/DME101.000\nPage 4\n\n11/15/2024 Document updated with literature review. The following change was made\nto Coverage: Added to examples of items that are not eligible for coverage:\n\u201cNonhospital beds such as the Craftmatic\u00ae Adjustable bed, the Sleep\nNumber\u00ae bed by Select Comfort Corporation and the Self Adjusting\nTechnology (SAT\u2122) Bed, the SleepSafe Beds\u00ae, Cubby Beds, waterbeds and\nbeds considered safety or sensory-friendly safe spaces.\u201d No new references\nadded.\n06/15/2024 Document updated with literature review. Coverage unchanged. Reference\nupdated.\n05/01/2023 Reviewed. No changes.\n10/15/2022 Document updated with literature review. Coverage unchanged. No new\nreferences added.\n02/01/2022 Reviewed. No changes.\n10/15/2021 Document updated with literature review. The following changes were made\nto the Coverage: 1) NOTE 2 was added; 2) The phrase: bath seats (bath\nbench, tub chair) was added to the following not eligible for coverage\nstatement: Bathing devices, including but not limited to bath seats (bath\nbench, tub chair), whirlpool tubs and/or pumps, sauna bath. References\nwere updated, no new references added.\n08/15/2020 Reviewed. No changes.\n07/01/2019 Document updated with literature review. Coverage unchanged. No new\nreferences added.\n12/01/2017 Reviewed. No changes.\n01/01/2017 Document updated with literature review. Coverage unchanged.\n04/15/2015 Reviewed. No changes.\n09/01/2014 Document reviewed. Coverage, under \u201cGeneral Coverage\u201d, the bullet\n\u201cAppropriate for use in the home\u201d is changed to \u201cUsed in the patient\u2019s\nhome/place of residence\u201d.\n12/01/2012 Document reviewed. No changes.\n09/07/2007 Revised/Updated Entire Document\n07/01/2006 Codes Revised/Added/Deleted\n10/15/2005 Revised/Updated Entire Document\n02/01/2002 Codes Revised/Added/Deleted\n05/01/1996 Revised/Updated Entire Document\n01/01/1993 New Medical Document\nDME Introduction/DME101.000\nPage 5",
+    "section": "References",
+    "page": 4,
+    "title": "DME Introduction",
+    "category": "dme",
+    "codes": {
+      "cpt": [],
+      "hcpcs": [
+        "A9901",
+        "E1301",
+        "E1399",
+        "K1003"
+      ]
+    },
+    "keywords": {
+      "conditions": [],
+      "procedures": [
+        "durable medical equipment",
+        "hospital bed"
+      ],
+      "coverage_terms": [
+        "medically necessary",
+        "may be considered",
+        "eligible for coverage",
+        "not eligible"
+      ]
+    },
+    "page_url": "https://medicalpolicy.hcsc.com/activePolicyPage?path=dme/DME101.000_2024-11-15&corpEntCd=HCSC",
+    "pdf_url": "https://medicalpolicy.hcsc.com/content/dam/bcbs/medicalpolicy/pdf/dme/DME101.000_2024-11-15.pdf",
+    "thresholds": {},
+    "negations": [],
+    "conditions": [],
+    "logic": {},
+    "summary": "1."
+  }
+]
