@@ -2,6 +2,19 @@
 
 *We believe projects demonstrate skills better than credentials. Choose one option below that best showcases your abilities.*
 
+## Getting Started
+
+### Setup Instructions
+1. **Fork this repository** - Create your own copy on GitHub to work from
+2. **Clone your fork locally** - `git clone https://github.com/YOUR_USERNAME/Razorbill_Takehomes.git`
+3. **Review Technical Requirements** - Start with [REQUIREMENTS.md](REQUIREMENTS.md) to understand expected skills and security practices
+4. **Choose Your Option** - Pick one of the three options below based on your strengths
+5. **Study Examples** - Examine reference data in `convert/examples/` and `hcsc_scraper/`
+6. **Follow Development Standards** - Use Docker + UV, maintain security practices
+
+### Submission
+When complete, submit a link to your forked repository with your solution.
+
 ## Development Standards
 
 - **PEP-8 compliance** - Clean, readable Python code
